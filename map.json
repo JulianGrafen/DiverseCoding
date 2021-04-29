@@ -511,23 +511,6 @@
                  "width":30,
                  "x":1084,
                  "y":488
-                }, 
-                {
-                 "height":261,
-                 "id":45,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"grouplearning"
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":193,
-                 "x":1066,
-                 "y":339
                 }],
          "offsetx":8,
          "offsety":-4,

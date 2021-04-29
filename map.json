@@ -467,30 +467,6 @@
                 {
                  "gid":115,
                  "height":32,
-                 "id":41,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":32,
-                 "x":1084,
-                 "y":484.666666666667
-                }, 
-                {
-                 "gid":115,
-                 "height":32,
-                 "id":42,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":32,
-                 "x":1084,
-                 "y":484.666666666667
-                }, 
-                {
-                 "gid":115,
-                 "height":32,
                  "id":43,
                  "name":"",
                  "rotation":0,
@@ -501,16 +477,52 @@
                  "y":478
                 }, 
                 {
-                 "gid":115,
-                 "height":42,
-                 "id":44,
+                 "height":19,
+                 "id":46,
                  "name":"",
                  "rotation":0,
+                 "text":
+                    {
+                     "text":"Hallo Welt",
+                     "wrap":true
+                    },
                  "type":"",
                  "visible":true,
-                 "width":30,
-                 "x":1084,
-                 "y":488
+                 "width":72,
+                 "x":740,
+                 "y":128.5
+                }, 
+                {
+                 "height":19,
+                 "id":47,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Hallo Welt",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":762,
+                 "y":170.5
+                }, 
+                {
+                 "height":19,
+                 "id":48,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Hallo Welt",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":761,
+                 "y":223.5
                 }],
          "offsetx":8,
          "offsety":-4,
@@ -588,7 +600,7 @@
          "y":0
         }],
  "nextlayerid":15,
- "nextobjectid":46,
+ "nextobjectid":49,
  "orientation":"orthogonal",
  "properties":[
         {

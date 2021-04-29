@@ -149,6 +149,28 @@
                  "width":116,
                  "x":1138,
                  "y":586.5
+                }, 
+                {
+                 "height":8,
+                 "id":3,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":2,
+                 "x":1205,
+                 "y":634
+                }, 
+                {
+                 "height":0,
+                 "id":4,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1173,
+                 "y":579
                 }],
          "offsetx":-20,
          "offsety":-21,
@@ -177,7 +199,7 @@
          "y":0
         }],
  "nextlayerid":14,
- "nextobjectid":3,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "properties":[
         {
